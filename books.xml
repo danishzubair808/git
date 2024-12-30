@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+<book category="sports">
+<title>sportsman spirit </title>
+<author>DAN </author>
+<year> 2005</year>
+<price>RS 3000 </price>
+</book>
+</bookstore>
